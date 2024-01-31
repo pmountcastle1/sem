@@ -4,9 +4,9 @@ Updated: 25/1/2024
 
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/actions/workflow/status/pmountcastle1/sem/main.yml?branch=master)
 
-[![LICENSE](https://img.shields.io/github/license/<github-username>/sem.svg?style=flat-square)](https://github.com/pmountcastle1/sem/blob/master/LICENSE)
+[![LICENSE](https://img.shields.io/github/license/pmountcastle1/sem.svg?style=flat-square)](https://github.com/pmountcastle1/sem/blob/master/LICENSE)
 
-[![Releases](https://img.shields.io/github/release/<github-username>/sem/all.svg?style=flat-square)](https://github.com/pmountcastle1/sem/releases)
+[![Releases](https://img.shields.io/github/release/pmountcastle1/sem/all.svg?style=flat-square)](https://github.com/pmountcastle1/sem/releases)
 
 Lab 2
 - Created a main.xml file used for continuous integration
